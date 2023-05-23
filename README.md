@@ -11,3 +11,8 @@ Test suite did not work in earlier Eclipse versions
 **How To Run**  
 Download and compile repository and run from Eclipse IDE.  
 Run each test case.
+
+**References**  
+https://www.tutorialspoint.com/junit/junit_suite_test.htm  
+https://junit.org/junit5/docs/current/user-guide/  
+https://www.baeldung.com/junit-before-beforeclass-beforeeach-beforeall
