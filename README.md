@@ -9,8 +9,9 @@ Eclipse IDE 2022
 Test suite did not work in earlier Eclipse versions
 
 **How To Run**  
-Download and compile repository and run from Eclipse IDE.  
-Run each test case.
+Download and compile repository  
+Navigate to src/ie/gmit/dip in command line
+Use command javac Runner.java to run application
 
 **References**  
 https://www.tutorialspoint.com/junit/junit_suite_test.htm  
